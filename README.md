@@ -1,4 +1,4 @@
-### Hi there, I'm Saeid - aka [codeSTACKr][website] 👋
+### Hi there, I'm Jahidul Islam - Saeid [codeSTACKr][website] 👋
 
 ## I'm a Student, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
@@ -63,13 +63,13 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Jahidul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahidulsaeid&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://jahidul.netlify.app
+[twitter]: https://twitter.com/jahidulsaeid
+[youtube]: https://youtube.com/jahidulsaeid
+[instagram]: https://instagram.com/jahidulsaeid
+[linkedin]: https://linkedin.com/in/jahidulsaeid
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
