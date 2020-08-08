@@ -7,6 +7,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+
+---
+
+![Jahidul's github stats](https://github-readme-stats.vercel.app/api?username=jahidulsaeid&show_icons=true&theme=radical)
+
+
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -37,11 +43,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
----
-
-![Jahidul's github stats](https://github-readme-stats.vercel.app/api?username=jahidulsaeid&show_icons=true&theme=radical)
-
 
 
 [website]: https://jahidul.netlify.app
