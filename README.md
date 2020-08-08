@@ -1,4 +1,4 @@
-### Hi there, I'm Jahidul Islam - Saeid [codeSTACKr][website] 👋
+### Hi there, I'm Jahidul Islam - [Saeid][website] 👋
 
 ## I'm a Student, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
