@@ -38,7 +38,7 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jahidulsaeid&show_icons=true&theme=radical)
+![Jahidul's github stats](https://github-readme-stats.vercel.app/api?username=jahidulsaeid&show_icons=true&theme=radical)
 
 <br />
 
