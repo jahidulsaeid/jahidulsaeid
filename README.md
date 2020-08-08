@@ -63,7 +63,12 @@
 
 ---
 
-<img align="left" alt="Jahidul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahidulsaeid&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="Jahidul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahidulsaeid&show_icons=true&hide_border=true" /> -->
+
+---
+
+![Jahidul's github stats](https://github-readme-stats.vercel.app/api?username=jahidulsaeid&show_icons=true&theme=radical)
+
 
 [website]: https://jahidul.netlify.app
 [twitter]: https://twitter.com/jahidulsaeid
