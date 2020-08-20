@@ -1,6 +1,6 @@
 ### Hi there, I'm Jahidul Islam - [Saeid][website] 👋
 
-## I'm a Student, Developer, and Teacher!
+## I'm a Student, Web Designer and Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
