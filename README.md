@@ -1,4 +1,4 @@
-### Hi there, I'm Jahidul Islam - [Saeid][website] 👋
+<!-- ### Hi there, I'm Jahidul Islam - [Saeid][website] 👋 -->
 
 <!-- ## I'm a Student, Web Designer and Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
