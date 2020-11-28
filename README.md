@@ -45,7 +45,7 @@
 <br /> -->
 
 
-[website]: https://jahidul.netlify.app
+[website]: https://jahidulsaeid.com
 [twitter]: https://twitter.com/jahidulsaeid
 [youtube]: https://youtube.com/jahidulsaeid
 [instagram]: https://instagram.com/jahidulsaeid
