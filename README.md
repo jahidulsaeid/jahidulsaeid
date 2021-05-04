@@ -26,7 +26,9 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-jahidulsaeid.vercel.app/api/spotify-playing" alt="Saeid Spotify Playing" width="350" />](https://open.spotify.com/user/31i74orcb7l6xatajbuztnxskota)
+[![Spotify](https://jahidulsaeid.vercel.app/api/spotify)](https://open.spotify.com/user/31i74orcb7l6xatajbuztnxskota)
+
+
 
 
 <!-- ### Languages and Tools:
