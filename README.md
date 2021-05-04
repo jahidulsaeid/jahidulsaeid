@@ -26,7 +26,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://now-playing-spotify-eight.vercel.app/api/spotify)](https://open.spotify.com/user/31i74orcb7l6xatajbuztnxskota)
+<!-- [![Spotify](https://now-playing-spotify-eight.vercel.app/api/spotify)](https://open.spotify.com/user/31i74orcb7l6xatajbuztnxskota) -->
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31i74orcb7l6xatajbuztnxskota&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
