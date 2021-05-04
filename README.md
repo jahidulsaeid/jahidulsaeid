@@ -26,7 +26,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://jahidulsaeid.vercel.app/api/spotify)](https://open.spotify.com/user/31i74orcb7l6xatajbuztnxskota)
+[![Spotify](https://now-playing-spotify-eight.vercel.app/api/spotify)](https://open.spotify.com/user/31i74orcb7l6xatajbuztnxskota)
 
 
 
