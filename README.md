@@ -24,7 +24,7 @@
 <br />
 
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧 -->
 
 <!-- Own App -->
 <!-- [![Spotify](https://now-playing-spotify-eight.vercel.app/api/spotify)](https://open.spotify.com/user/31i74orcb7l6xatajbuztnxskota) -->
