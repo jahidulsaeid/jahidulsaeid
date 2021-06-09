@@ -1,7 +1,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/gmail.svg" />][mail]
+[<img align="left" alt="mail | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][mail]
 [<img align="left" alt="facebook | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
