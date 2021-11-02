@@ -8,7 +8,7 @@
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
 [website]: https://jahidulsaeid.com
-[mail]: mailto:contact@jahidulsaeid.com
+[mail]: mailto:me@jahidulsaeid.com
 [twitter]: https://twitter.com/jahidulsaeid
 [facebook]: https://facebook.com/jahidulsaeid
 [instagram]: https://instagram.com/jahidulsaeid
