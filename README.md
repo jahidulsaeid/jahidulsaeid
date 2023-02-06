@@ -1,4 +1,4 @@
-### Connect with me:
+<!-- ### Connect with me:
 
 [<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./icons/website_dark.png#gh-dark-mode-only">
@@ -41,4 +41,4 @@
 [twitter]: https://twitter.com/jahidulsaeid
 [facebook]: https://facebook.com/jahidulsaeid
 [instagram]: https://instagram.com/jahidulsaeid
-[linkedin]: https://linkedin.com/in/jahidulsaeid
+[linkedin]: https://linkedin.com/in/jahidulsaeid -->
