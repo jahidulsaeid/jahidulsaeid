@@ -82,11 +82,4 @@ My experience includes:
 
 ---
 
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
 ⭐ **Building software that solves real business problems, one product at a time.**
